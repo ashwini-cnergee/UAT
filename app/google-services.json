@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047248592361",
+    "firebase_url": "https://shenglipune.firebaseio.com",
+    "project_id": "shenglipune",
+    "storage_bucket": "shenglipune.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047248592361:android:1e0e97593b88c223e73f78",
+        "android_client_info": {
+          "package_name": "cnergee.myapp.shengli_pune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047248592361-lvm63p4t13d43au04rsftd8uuh73nj32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cnergee.myapp.shengli_pune",
+            "certificate_hash": "e077573812bac1a20ecbc1d7e893d12926177437"
+          }
+        },
+        {
+          "client_id": "1047248592361-pek3jprh2d7301nms7s4kjkfdo8c06ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfxiFg3vHtHf1Re_6cuRL6WvIqqMheNbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047248592361-pek3jprh2d7301nms7s4kjkfdo8c06ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
