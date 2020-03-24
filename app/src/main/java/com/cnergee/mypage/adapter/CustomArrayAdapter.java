@@ -14,7 +14,7 @@ import android.widget.TextView;
 
 import com.cnergee.mypage.utils.Utils;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class CustomArrayAdapter extends ArrayAdapter<String> {
 	

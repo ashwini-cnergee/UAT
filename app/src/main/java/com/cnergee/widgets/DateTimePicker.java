@@ -17,7 +17,7 @@ import android.widget.ViewSwitcher;
 import java.util.Calendar;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 
 public class DateTimePicker extends RelativeLayout implements View.OnClickListener, OnDateChangedListener, OnTimeChangedListener {

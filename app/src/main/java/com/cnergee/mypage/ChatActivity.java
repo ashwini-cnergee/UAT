@@ -75,7 +75,7 @@ import com.cnergee.mypage.utils.Utils;
 import com.cnergee.widgets.ProgressHUD;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 @SuppressLint("ResourceAsColor")
 public class ChatActivity extends Activity implements IViewImage,IRefreshAdapter,OnScrollListener {

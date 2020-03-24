@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import android.widget.TextView;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 
 

@@ -14,7 +14,7 @@ import com.citruspay.citruspaylib.service.CitrusGetWebClientJSResponse;
 import com.cnergee.mypage.utils.Utils;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class TransResponse extends Activity{
 	

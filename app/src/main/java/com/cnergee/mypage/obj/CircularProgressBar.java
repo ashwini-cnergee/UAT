@@ -39,7 +39,7 @@ import com.nineoldandroids.animation.ObjectAnimator;
 import com.nineoldandroids.animation.ValueAnimator;
 import com.nineoldandroids.animation.ValueAnimator.AnimatorUpdateListener;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class CircularProgressBar extends ProgressBar{
 	private static final String TAG = "CircularProgressBar";

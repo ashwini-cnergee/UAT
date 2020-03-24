@@ -75,7 +75,7 @@ import java.util.Random;
 import java.util.Set;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class MakeMyPaymentsAtom extends Activity {
     //private static final String retrunURL = "https://sandbox.citruspay.com/demo/jsp/response_android.jsp";

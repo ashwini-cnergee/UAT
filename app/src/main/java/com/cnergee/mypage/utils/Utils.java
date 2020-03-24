@@ -40,7 +40,7 @@ import com.google.android.gms.gcm.GoogleCloudMessaging;
 import com.special.ResideMenu.ResideMenu;
 import com.special.ResideMenu.ResideMenuItem;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 import de.keyboardsurfer.android.widget.crouton.Style;
 
 public class Utils extends Activity {

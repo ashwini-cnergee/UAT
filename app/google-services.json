@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "1047248592361",
-    "firebase_url": "https://shenglipune.firebaseio.com",
-    "project_id": "shenglipune",
-    "storage_bucket": "shenglipune.appspot.com"
+    "project_number": "595798577647",
+    "firebase_url": "https://myapp-272110.firebaseio.com",
+    "project_id": "myapp-272110",
+    "storage_bucket": "myapp-272110.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1047248592361:android:1e0e97593b88c223e73f78",
+        "mobilesdk_app_id": "1:595798577647:android:e70dd6d442bd58e244661a",
         "android_client_info": {
-          "package_name": "cnergee.myapp.shengli_pune"
+          "package_name": "cnergee.myapp.uat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1047248592361-lvm63p4t13d43au04rsftd8uuh73nj32.apps.googleusercontent.com",
+          "client_id": "595798577647-jlj28fc5hhjmu6ovl31afj9ahncrv1i8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "cnergee.myapp.shengli_pune",
-            "certificate_hash": "e077573812bac1a20ecbc1d7e893d12926177437"
+            "package_name": "cnergee.myapp.uat",
+            "certificate_hash": "d7904ad2db3862999786407f56e2636303dc719e"
           }
         },
         {
-          "client_id": "1047248592361-pek3jprh2d7301nms7s4kjkfdo8c06ni.apps.googleusercontent.com",
+          "client_id": "595798577647-oph6msn1oo53rllff0l51t964kvfon2r.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBfxiFg3vHtHf1Re_6cuRL6WvIqqMheNbQ"
+          "current_key": "AIzaSyDmMtd8SlFK7pLyhUAGFEueJ3Rb6EUOv6k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1047248592361-pek3jprh2d7301nms7s4kjkfdo8c06ni.apps.googleusercontent.com",
+              "client_id": "595798577647-oph6msn1oo53rllff0l51t964kvfon2r.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

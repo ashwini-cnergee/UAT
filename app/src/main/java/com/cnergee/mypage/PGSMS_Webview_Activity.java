@@ -26,7 +26,7 @@ import android.widget.LinearLayout.LayoutParams;
 import com.cnergee.mypage.utils.Utils;
 import com.cnergee.widgets.ProgressHUD;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class PGSMS_Webview_Activity extends BaseActivity implements OnCancelListener{
 	WebView wv_pg_sms;

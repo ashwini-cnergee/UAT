@@ -15,7 +15,7 @@ import java.util.Date;
 import java.util.Locale;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class PaymentHistoryAdapter extends ArrayAdapter<PaymentHistoryObj> {
 

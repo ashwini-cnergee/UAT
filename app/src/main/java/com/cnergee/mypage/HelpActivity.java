@@ -21,7 +21,7 @@ import com.special.ResideMenu.ResideMenu;
 import java.util.ArrayList;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class HelpActivity extends BaseActivity{
 	LinearLayout linnhome,linnprofile,linnnotification,linnhelp;

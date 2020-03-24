@@ -1,7 +1,7 @@
 package com.cnergee.widgets;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 import android.content.Context;
 import android.content.res.AssetManager;

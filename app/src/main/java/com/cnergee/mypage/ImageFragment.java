@@ -20,7 +20,7 @@ import java.io.File;
 import java.lang.ref.WeakReference;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class ImageFragment extends Fragment {
     private String imagePath;

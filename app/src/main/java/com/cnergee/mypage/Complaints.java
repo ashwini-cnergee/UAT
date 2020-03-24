@@ -60,7 +60,7 @@ import com.cnergee.mypage.utils.Utils;
 import com.cnergee.widgets.ProgressHUD;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 import com.special.ResideMenu.ResideMenu;
 import com.special.ResideMenu.ResideMenuItem;

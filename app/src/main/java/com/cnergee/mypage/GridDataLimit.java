@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 import cnergee.plan.calc.DataLimit;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class GridDataLimit  extends ArrayAdapter<DataLimit>{
 	ArrayList<DataLimit> alDataLimit;

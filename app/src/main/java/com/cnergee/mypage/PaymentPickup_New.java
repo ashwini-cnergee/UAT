@@ -63,7 +63,7 @@ import com.cnergee.mypage.utils.FinishEvent;
 import com.cnergee.mypage.utils.Utils;
 import com.cnergee.widgets.ProgressHUD;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 import com.special.ResideMenu.ResideMenu;
 
 public class PaymentPickup_New extends BaseActivity  {

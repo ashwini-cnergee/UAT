@@ -43,7 +43,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class WebSubPaisaActivity extends Activity {
 

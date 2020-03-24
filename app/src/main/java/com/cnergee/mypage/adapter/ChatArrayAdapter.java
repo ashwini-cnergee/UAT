@@ -33,7 +33,7 @@ import com.cnergee.mypage.obj.Chat;
 import com.cnergee.mypage.obj.TableConstants;
 import com.cnergee.mypage.utils.Utils;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 import com.squareup.picasso.Picasso;
 
 

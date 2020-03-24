@@ -7,6 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/floatinglabellib/floatinglabellib.iml" filepath="$PROJECT_DIR$/floatinglabellib/floatinglabellib.iml" />
       <module fileurl="file://$PROJECT_DIR$/residemenu/residemenu.iml" filepath="$PROJECT_DIR$/residemenu/residemenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample app.iml" filepath="$PROJECT_DIR$/sample app.iml" group="sample app" />
+      <module fileurl="file://$PROJECT_DIR$/BillDeskSDK_v2.0.2/sample app-BillDeskSDK_v2.0.2.iml" filepath="$PROJECT_DIR$/BillDeskSDK_v2.0.2/sample app-BillDeskSDK_v2.0.2.iml" group="sample app/BillDeskSDK_v2.0.2" />
+      <module fileurl="file://$PROJECT_DIR$/app/sample app-app.iml" filepath="$PROJECT_DIR$/app/sample app-app.iml" group="sample app/app" />
+      <module fileurl="file://$PROJECT_DIR$/floatinglabellib/sample app-floatinglabellib.iml" filepath="$PROJECT_DIR$/floatinglabellib/sample app-floatinglabellib.iml" group="sample app/floatinglabellib" />
+      <module fileurl="file://$PROJECT_DIR$/residemenu/sample app-residemenu.iml" filepath="$PROJECT_DIR$/residemenu/sample app-residemenu.iml" group="sample app/residemenu" />
+      <module fileurl="file://$PROJECT_DIR$/wheeldemo/sample app-wheeldemo.iml" filepath="$PROJECT_DIR$/wheeldemo/sample app-wheeldemo.iml" group="sample app/wheeldemo" />
       <module fileurl="file://$PROJECT_DIR$/wheeldemo/wheeldemo.iml" filepath="$PROJECT_DIR$/wheeldemo/wheeldemo.iml" />
     </modules>
   </component>

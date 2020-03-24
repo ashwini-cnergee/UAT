@@ -13,7 +13,7 @@ import com.cnergee.mypage.utils.Utils;
 import java.io.File;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class ShowVideoActivity extends Activity  {
 	VideoView vvVideoView;

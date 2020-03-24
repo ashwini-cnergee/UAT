@@ -61,7 +61,7 @@ import cnergee.plan.calc.DayRate_Plan;
 import cnergee.plan.calc.Days;
 import cnergee.plan.calc.Speed;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class TopupActivity extends BaseActivity implements IDaysSelecttion_Topup{
 String MemberloginName="";

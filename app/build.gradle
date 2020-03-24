@@ -9,7 +9,7 @@ android {
         versionCode 1
         versionName '1.1'
         multiDexEnabled true
-        applicationId 'cnergee.myapp.shengli_pune'
+        applicationId 'cnergee.myapp.uat'
     }
 
     dexOptions {

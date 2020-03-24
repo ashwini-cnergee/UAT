@@ -29,7 +29,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class CheckExpiryService extends Service {
 Context context;

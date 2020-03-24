@@ -10,7 +10,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class Help extends BaseActivity{
 	LinearLayout linnhome,linnprofile,linnnotification,linnhelp;

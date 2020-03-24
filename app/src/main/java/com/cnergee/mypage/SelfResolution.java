@@ -71,7 +71,7 @@ import java.util.LinkedHashMap;
 import java.util.Map.Entry;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 import it.sephiroth.android.library.imagezoom.ImageViewTouch;
 
 public class SelfResolution  extends BaseActivity {

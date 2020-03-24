@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.util.List;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 
 /**

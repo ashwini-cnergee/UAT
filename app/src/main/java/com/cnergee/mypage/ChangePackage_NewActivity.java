@@ -88,7 +88,7 @@ import com.cnergee.mypage.utils.Utils;
 import com.cnergee.widgets.ProgressHUD;
 import com.squareup.otto.Subscribe;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 
 public class ChangePackage_NewActivity extends Activity{

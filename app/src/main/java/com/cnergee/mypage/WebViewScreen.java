@@ -32,7 +32,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class WebViewScreen extends Activity {
 	WebView _mwebView;

@@ -52,7 +52,7 @@ import java.util.Calendar;
 import java.util.List;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 
 public class MainActivity extends Activity {

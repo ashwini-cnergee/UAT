@@ -68,7 +68,7 @@ import cnergee.plan.calc.Days;
 import cnergee.plan.calc.Speed;
 import cnergee.plan.calc.Speed_After_Vol;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 
 public class PlanCalculatorActivity extends Activity  {

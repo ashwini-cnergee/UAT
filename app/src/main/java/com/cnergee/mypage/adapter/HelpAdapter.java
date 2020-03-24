@@ -15,7 +15,7 @@ import com.cnergee.mypage.obj.HelpObject;
 import java.util.ArrayList;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class HelpAdapter extends ArrayAdapter<HelpObject> {
 	Context ctx;

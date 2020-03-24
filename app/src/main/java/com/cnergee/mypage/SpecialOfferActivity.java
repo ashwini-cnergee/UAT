@@ -25,7 +25,7 @@ import com.special.ResideMenu.ResideMenu;
 import java.util.ArrayList;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class SpecialOfferActivity extends BaseActivity {
 	Utils utils;

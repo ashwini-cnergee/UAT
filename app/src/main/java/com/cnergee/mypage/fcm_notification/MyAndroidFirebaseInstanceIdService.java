@@ -9,7 +9,7 @@ import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class MyAndroidFirebaseInstanceIdService extends FirebaseInstanceIdService {
 

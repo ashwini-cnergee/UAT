@@ -36,7 +36,7 @@ import com.cnergee.mypage.utils.Utils;
 
 import all.interface_.IError;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 
 public class BaseActivity extends FragmentActivity implements OnClickListener, IError {

@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 import cnergee.plan.calc.Speed;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class GridSpeedAdapter  extends ArrayAdapter<Speed>{
 ArrayList<Speed> alNumbers;

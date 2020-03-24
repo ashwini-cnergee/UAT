@@ -43,7 +43,7 @@ import java.util.List;
 import java.util.Map;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class PaymentOptionSelection_Activity extends Activity{
 

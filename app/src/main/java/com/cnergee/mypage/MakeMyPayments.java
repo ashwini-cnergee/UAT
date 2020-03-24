@@ -72,7 +72,7 @@ import java.util.Set;
 
 import all.interface_.IError;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class MakeMyPayments extends BaseActivity {
 	//private static final String retrunURL = "https://sandbox.citruspay.com/demo/jsp/response_android.jsp";

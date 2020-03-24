@@ -21,7 +21,7 @@ import com.cnergee.widgets.JazzyViewPager.TransitionEffect;
 import java.util.ArrayList;
 
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 
 

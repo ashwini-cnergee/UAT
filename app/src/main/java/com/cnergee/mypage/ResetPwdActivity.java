@@ -14,7 +14,7 @@ import android.widget.LinearLayout;
 import com.cnergee.mypage.caller.ResetPwdCaller;
 import com.cnergee.mypage.utils.Utils;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class ResetPwdActivity extends BaseActivity {
 	private String sharedPreferences_name;

@@ -45,7 +45,7 @@ import com.cnergee.mypage.utils.Utils;
 import com.cnergee.widgets.DateTimePicker;
 import com.cnergee.widgets.ProgressHUD;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class NewConnFragment extends Fragment {
 

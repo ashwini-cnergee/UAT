@@ -28,7 +28,7 @@ import com.cnergee.mypage.utils.AlertsBoxFactory;
 import com.cnergee.mypage.utils.Utils;
 import com.cnergee.widgets.ProgressHUD;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class SMSAuthenticationActivity extends Activity {
 	String MemberId="",MobileNum="",MemberLoginId="";

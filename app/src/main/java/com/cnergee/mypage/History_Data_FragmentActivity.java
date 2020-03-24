@@ -12,7 +12,7 @@ import android.support.v7.app.ActionBar.Tab;
 import com.cnergee.mypage.adapter.History_Data_PagerAdapter;
 import com.cnergee.mypage.utils.Utils;
 
-import cnergee.myapp.shengli_pune.R;
+import cnergee.myapp.uat.R;
 
 public class History_Data_FragmentActivity extends FragmentActivity{
 	

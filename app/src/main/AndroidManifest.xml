@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="cnergee.myapp.shengli_pune">
+    package="cnergee.myapp.uat">
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -29,10 +29,10 @@
     <uses-permission android:name="android.permission.GET_TASKS" />
 
     <permission
-        android:name="cnergee.myapp.shengli_pune.permission.C2D_MESSAGE"
+        android:name="cnergee.myapp.uat.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="cnergee.myapp.shengli_pune.permission.C2D_MESSAGE" />
+    <uses-permission android:name="cnergee.myapp.uat.permission.C2D_MESSAGE" />
 
     <uses-feature android:name="android.hardware.location.network" />
 
